@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.infraestructura\\repositorio\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|solutionrelative:gestioncitas.citas.infraestructura\\repositorio\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.infraestructura\\citasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|solutionrelative:gestioncitas.citas.infraestructura\\citasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|solutionrelative:gestioncitas.citas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.infraestructura\\migrations\\202411200256338_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|solutionrelative:gestioncitas.citas.infraestructura\\migrations\\202411200256338_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1956266-C597-4941-9662-B1BA7A9B4B92}|GestionCitas.Citas.Infraestructura\\GestionCitas.Citas.Infraestructura.csproj|solutionrelative:gestioncitas.citas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|solutionrelative:gestioncitas.citas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.api\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|solutionrelative:gestioncitas.citas.api\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.api\\controllers\\dtos\\citaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|solutionrelative:gestioncitas.citas.api\\controllers\\dtos\\citaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.api\\controllers\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0582DA-D15D-4C22-9176-617061A315E5}|GestionCitas.Citas.Api\\GestionCitas.Citas.Api.csproj|solutionrelative:gestioncitas.citas.api\\controllers\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\validadores\\citavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\validadores\\citavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\servicios\\impl\\citaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\servicios\\impl\\citaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\servicios\\impl\\citacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\servicios\\impl\\citacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\servicios\\icitacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\servicios\\icitacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\repositorios\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\repositorios\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\servicios\\icitaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\servicios\\icitaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\citas\\gestioncitas.citas.dominio\\excepciones\\excepcionnoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46FAACA-C496-455A-B931-9B57C0442852}|GestionCitas.Citas.Dominio\\GestionCitas.Citas.Dominio.csproj|solutionrelative:gestioncitas.citas.dominio\\excepciones\\excepcionnoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Repositorio\\CitaRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Infraestructura\\Repositorio\\CitaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Repositorio\\CitaRepository.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Infraestructura\\Repositorio\\CitaRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:27:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202411200256338_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Migrations\\202411200256338_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Infraestructura\\Migrations\\202411200256338_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Migrations\\202411200256338_InitialCreate.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Infraestructura\\Migrations\\202411200256338_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:56:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Infraestructura\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Infraestructura\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:52:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Web.config",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Api\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Web.config",
+              "RelativeToolTip": "GestionCitas.Citas.Api\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T02:46:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\App.config",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Infraestructura\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\App.config",
+              "RelativeToolTip": "GestionCitas.Citas.Infraestructura\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T02:40:13.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\CitasDbContext.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Infraestructura\\CitasDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Infraestructura\\CitasDbContext.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Infraestructura\\CitasDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:28:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Api\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Api\\Controllers\\CitaController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:33:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaResponseDto.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaResponseDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaResponseDto.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaResponseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:30:26.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaDto.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaDto.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Api\\Controllers\\Dtos\\CitaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:29:55.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CitaValidador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Validadores\\CitaValidador.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Validadores\\CitaValidador.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Validadores\\CitaValidador.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Validadores\\CitaValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:50:18.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitaQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaQueriesService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:45:39.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CitaCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Servicios\\Impl\\CitaCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:34:08.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICitaCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\ICitaCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Servicios\\ICitaCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\ICitaCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Servicios\\ICitaCommandService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:48:37.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Repositorios\\ICitaRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Repositorios\\ICitaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Repositorios\\ICitaRepository.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Repositorios\\ICitaRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:42:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Modelos\\Cita.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Modelos\\Cita.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Modelos\\Cita.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Modelos\\Cita.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:40:04.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICitaQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\ICitaQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Servicios\\ICitaQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Servicios\\ICitaQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Servicios\\ICitaQueriesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:55:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExcepcionNoEncontrada.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Citas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Citas\\GestionCitas.Citas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "RelativeToolTip": "GestionCitas.Citas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:32:49.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

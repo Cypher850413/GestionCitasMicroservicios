@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Infraestrucutura.dll.config
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Infraestrucutura.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Infraestrucutura.pdb
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Dominio.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Dominio.pdb
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\GestionCitas.Personas.Dominio.dll.config
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionC.528B8848.Up2Date
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.pdb
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.Migrations.InitialCreate.resources
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Infraestrucutura\obj\Debug\GestionCitas.Personas.Infraestrucutura.csproj.GenerateResource.cache

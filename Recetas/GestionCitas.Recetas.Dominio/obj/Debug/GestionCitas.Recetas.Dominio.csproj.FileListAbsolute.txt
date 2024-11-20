@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\bin\Debug\GestionCitas.Recetas.Dominio.dll
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\bin\Debug\GestionCitas.Recetas.Dominio.pdb
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\obj\Debug\GestionCitas.Recetas.Dominio.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\obj\Debug\GestionCitas.Recetas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\obj\Debug\GestionCitas.Recetas.Dominio.dll
+C:\Users\HP\Documents\PruebaInetum\Recetas\GestionCitas.Recetas.Dominio\obj\Debug\GestionCitas.Recetas.Dominio.pdb

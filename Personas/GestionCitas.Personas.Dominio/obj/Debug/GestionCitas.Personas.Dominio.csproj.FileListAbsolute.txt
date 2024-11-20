@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\bin\Debug\GestionCitas.Personas.Dominio.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\bin\Debug\GestionCitas.Personas.Dominio.pdb
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\obj\Debug\GestionCitas.Personas.Dominio.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\obj\Debug\GestionCitas.Personas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\obj\Debug\GestionCitas.Personas.Dominio.dll
+C:\Users\HP\Documents\PruebaInetum\Personas\GestionCitas.Personas.Dominio\obj\Debug\GestionCitas.Personas.Dominio.pdb
