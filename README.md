@@ -34,5 +34,12 @@ Git instalado.
 
 # Pasos para la instalacion
 1. Clonar el repositorio
-   
-3. 
+   https://github.com/Cypher850413/GestionCitasMicroservicios.git
+2. Asegúrate de tener una instancia de SQL Server en ejecución. Sigue estos pasos para configurar la conexión:
+
+Actualiza la cadena de conexión en appsettings.json para que coincida con tu entorno de base de datos. La configuración debería verse así:
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=TU_SERVIDOR;Database=TU_BASE_DE_DATOS;User Id=USUARIO;Password=CONTRASEÑA;"
+}
+3.Ejecutar los scripts de base de datos de la carpeta BaseDatos en esta se encuentran en orden de ejcución siendo el primer script la creacion de las tres bases de datos y lo siguientes scripts son las tablas que se manejan en cada una
