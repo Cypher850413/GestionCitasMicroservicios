@@ -1,23 +1,18 @@
-﻿using GestionCitas.Personas.Api.Controllers.Dtos;
-using GestionCitas.Personas.Dominio.PersonasAgrupadas.Servicios;
-using GestionCitas.Personas.Dominio.PersonasAgrupadas.Modelos;
-using GestionCitas.Personas.Dominio.PersonasAgrupadas.Excepciones;
-using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using System.Web.Http;
-
-
-
+using GestionCitas.Personas.Api.Models;
+using GestionCitas.Personas.Dominio.PersonasAgrupadas.Servicios;
+using GestionCitas.Personas.Dominio.PersonasAgrupadas.Modelos;
+using GestionCitas.Personas.Dominio.PersonasAgrupadas.Excepciones;
+using System.Threading.Tasks;
 
 namespace GestionCitas.Personas.Api.Controllers
 {
     [RoutePrefix("api/medicos")]
-
     public class MedicoController : ApiController
     {
         private readonly IMedicoCommandService _medicoCommandService;
@@ -30,8 +25,8 @@ namespace GestionCitas.Personas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("")]
-        public async Task<IHttpActionResult> GetAll()
+        [Route("ObtenerMedicos")]
+        public async Task<IHttpActionResult> ObtenerMedicos()
         {
             var medicos = await _medicoQueriesService.GetAllAsyncMedico();
             var response = medicos.Select(m => new MedicoResponseDto
@@ -149,6 +144,5 @@ namespace GestionCitas.Personas.Api.Controllers
                 return NotFound();
             }
         }
-
     }
 }
