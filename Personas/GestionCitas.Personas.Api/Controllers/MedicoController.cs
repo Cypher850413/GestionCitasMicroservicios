@@ -45,8 +45,8 @@ namespace GestionCitas.Personas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> GetById(Guid id)
+        [Route("ObtenerMedicosPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ObtenerMedicosPorId(Guid id)
         {
             try
             {
@@ -72,8 +72,8 @@ namespace GestionCitas.Personas.Api.Controllers
         }
 
         [HttpPost]
-        [Route("")]
-        public async Task<IHttpActionResult> Add([FromBody] MedicoDto medicoDto)
+        [Route("CrearMedico")]
+        public async Task<IHttpActionResult> CrearMedico([FromBody] MedicoDto medicoDto)
         {
             if (!ModelState.IsValid)
             {
@@ -97,8 +97,8 @@ namespace GestionCitas.Personas.Api.Controllers
         }
 
         [HttpPut]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Update(Guid id, [FromBody] MedicoDto medicoDto)
+        [Route("ActualizarMedicosPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ActualizarMedicosPorId(Guid id, [FromBody] MedicoDto medicoDto)
         {
             if (!ModelState.IsValid)
             {
@@ -130,8 +130,8 @@ namespace GestionCitas.Personas.Api.Controllers
 
         // DELETE: api/medicos/{id}
         [HttpDelete]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Delete(Guid id)
+        [Route("EliminarMedicosPorId/{id:guid}")]
+        public async Task<IHttpActionResult> EliminarMedicosPorId(Guid id)
         {
             try
             {

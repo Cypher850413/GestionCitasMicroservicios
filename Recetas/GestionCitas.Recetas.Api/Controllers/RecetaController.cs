@@ -1,15 +1,14 @@
-﻿using GestionCitas.Recetas.Api.Controllers.Dtos;
-using GestionCitas.Recetas.Dominio.Servicios;
-using GestionCitas.Recetas.Dominio.Modelos;
-using GestionCitas.Recetas.Dominio.Excepciones;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using System.Web.Http;
-using System.Drawing;
+using GestionCitas.Recetas.Api.Models;
+using GestionCitas.Recetas.Dominio.Servicios;
+using GestionCitas.Recetas.Dominio.Modelos;
+using GestionCitas.Recetas.Dominio.Excepciones;
+using System.Threading.Tasks;
 
 namespace GestionCitas.Recetas.Api.Controllers
 {
@@ -26,15 +25,15 @@ namespace GestionCitas.Recetas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("")]
-        public async Task<IHttpActionResult> GetAll()
+        [Route("ObtenerRecetas")]
+        public async Task<IHttpActionResult> ObtenerRecetas()
         {
-            var recetas = await _recetaQueriesService.GetAllAsyncReceta();
-            var response = recetas.Select(m => new RecetaResponseDto
+            var receta = await _recetaQueriesService.GetAllAsyncReceta();
+            var response = receta.Select(m => new RecetaResponseDto
             {
                 Id = m.Id,
                 Codigo = m.Codigo,
-                Descripcion  = m.Descripcion,
+                Descripcion = m.Descripcion,
                 PacienteId = m.PacienteId,
                 Estado = m.Estado
             });
@@ -43,8 +42,8 @@ namespace GestionCitas.Recetas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> GetById(Guid id)
+        [Route("ObtenerRecetasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ObtenerRecetasPorId(Guid id)
         {
             try
             {
@@ -67,8 +66,8 @@ namespace GestionCitas.Recetas.Api.Controllers
         }
 
         [HttpPost]
-        [Route("")]
-        public async Task<IHttpActionResult> Add([FromBody] RecetaDto recetaDto)
+        [Route("CrearReceta")]
+        public async Task<IHttpActionResult> CrearRecta([FromBody] RecetaDto recetaDto)
         {
             if (!ModelState.IsValid)
             {
@@ -89,8 +88,8 @@ namespace GestionCitas.Recetas.Api.Controllers
         }
 
         [HttpPut]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Update(Guid id, [FromBody] RecetaDto recetaDto)
+        [Route("ActualizarRecetasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ActualizarRecetasPorId(Guid id, [FromBody] RecetaDto recetaDto)
         {
             if (!ModelState.IsValid)
             {
@@ -101,7 +100,7 @@ namespace GestionCitas.Recetas.Api.Controllers
             {
                 var receta = new Receta
                 {
-                    Id = Guid.NewGuid(),
+                    Id = id,
                     Codigo = recetaDto.Codigo,
                     Descripcion = recetaDto.Descripcion,
                     PacienteId = recetaDto.PacienteId,
@@ -117,10 +116,10 @@ namespace GestionCitas.Recetas.Api.Controllers
             }
         }
 
-        // DELETE: api/medicos/{id}
+
         [HttpDelete]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Delete(Guid id)
+        [Route("EliminarRecetasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> EliminarRecetasPorId(Guid id)
         {
             try
             {
@@ -132,6 +131,7 @@ namespace GestionCitas.Recetas.Api.Controllers
             {
                 return NotFound();
             }
+
         }
     }
 }

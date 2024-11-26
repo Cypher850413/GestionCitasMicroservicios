@@ -7,36 +7,64 @@
       "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.api\\infraestructura\\defaultdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\infraestructura\\defaultdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.infraestrucutura\\repositorio\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\repositorio\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.infraestrucutura\\repositorio\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\repositorio\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.api\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\imedicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\imedicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.infraestrucutura\\repositorio\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\repositorio\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\repositorios\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientequeriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientequeriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.infraestrucutura\\personasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\personasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.api\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\personas\\gestioncitas.personas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\medicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.infraestrucutura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\imedicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\imedicoqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\imedicocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,28 +75,12 @@
       "RelativeMoniker": "D:0:0:{CD6175F0-FB52-435F-8A7D-E4345CE58D64}|GestionCitas.Personas.Api\\GestionCitas.Personas.Api.csproj|solutionrelative:gestioncitas.personas.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.infraestrucutura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.infraestrucutura\\personasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F681D3D-4C59-46FA-82BC-D9142ED4D81F}|GestionCitas.Personas.Infraestrucutura\\GestionCitas.Personas.Infraestrucutura.csproj|solutionrelative:gestioncitas.personas.infraestrucutura\\personasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\validadores\\personavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\validadores\\personavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientequeriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientequeriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\ipacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\ipacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|solutionrelative:gestioncitas.personas.dominio\\personasagrupadas\\servicios\\impl\\pacientecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BB5C4E4-2309-4B55-B098-275A07902063}|GestionCitas.Personas.Dominio\\GestionCitas.Personas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\gestioncitas.personas.dominio\\personasagrupadas\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,15 +126,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultDependencyResolver.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Infraestructura\\DefaultDependencyResolver.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Infraestructura\\DefaultDependencyResolver.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Infraestructura\\DefaultDependencyResolver.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Api\\Infraestructura\\DefaultDependencyResolver.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswJEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T23:09:35.144Z",
+              "WhenOpened": "2024-11-22T01:49:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Api\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:23:45.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\PacienteRepository.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\PacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:31:43.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\MedicoRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\MedicoRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\MedicoRepository.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\MedicoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:16:50.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:35:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:47:40.545Z",
               "EditorCaption": ""
             },
             {
@@ -133,170 +210,14 @@
               "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Global.asax.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Global.asax.cs",
               "RelativeToolTip": "GestionCitas.Personas.Api\\Global.asax.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA5wBUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T22:50:29.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IMedicoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IMedicoRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:35:02.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MedicoController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Api\\Controllers\\MedicoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:49:49.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MedicoCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T01:05:18.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MedicoQueriesService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T01:06:08.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\PersonaRepository.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\PersonaRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Repositorio\\PersonaRepository.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\Repositorio\\PersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:33:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Repositorios\\IPacienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:47:40.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IMedicoQueriesService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:21:53.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IMedicoCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:59:25.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\App.config",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\App.config",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\App.config",
-              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-19T13:35:12.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PersonasDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T02:27:32.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PersonaValidador.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:49:23.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T02:38:52.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "PacienteQueriesService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\PacienteQueriesService.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\PacienteQueriesService.cs",
@@ -309,20 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IPacienteCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
-              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:00:10.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "PacienteCommandService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\PacienteCommandService.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\PacienteCommandService.cs",
@@ -335,7 +243,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\PersonasDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:27:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicoCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoCommandService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:05:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Views\\Web.config",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Views\\Web.config",
+              "RelativeToolTip": "GestionCitas.Personas.Api\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T19:59:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMedicoQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoQueriesService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:21:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicoQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\Impl\\MedicoQueriesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:06:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Web.config",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Web.config",
+              "RelativeToolTip": "GestionCitas.Personas.Api\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T20:01:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMedicoCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IMedicoCommandService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:59:25.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\App.config",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\App.config",
+              "RelativeToolTip": "GestionCitas.Personas.Infraestrucutura\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-19T13:35:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:38:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonaValidador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Validadores\\PersonaValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:49:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPacienteCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteCommandService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:00:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Persona.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Persona.cs",
@@ -348,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ExcepcionNoEncontrada.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Excepciones\\ExcepcionNoEncontrada.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Excepciones\\ExcepcionNoEncontrada.cs",
@@ -361,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "202411191341096_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Infraestrucutura\\Migrations\\202411191341096_InitialCreate.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Infraestrucutura\\Migrations\\202411191341096_InitialCreate.cs",
@@ -374,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IPacienteQueriesService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteQueriesService.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Servicios\\IPacienteQueriesService.cs",
@@ -387,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Paciente.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Paciente.cs",
@@ -400,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Medico.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Personas\\GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Medico.cs",
               "RelativeDocumentMoniker": "GestionCitas.Personas.Dominio\\PersonasAgrupadas\\Modelos\\Medico.cs",

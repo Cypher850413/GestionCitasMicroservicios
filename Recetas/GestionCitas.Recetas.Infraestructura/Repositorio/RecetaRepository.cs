@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using GestionCitas.Recetas.Dominio.Repositorios;
 using GestionCitas.Recetas.Dominio.Modelos;
 
+
 namespace GestionCitas.Recetas.Infraestructura.Repositorio
 {
     public class RecetaRepository : IRecetaRepository

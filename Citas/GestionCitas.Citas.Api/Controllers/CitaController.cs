@@ -1,14 +1,14 @@
-﻿using GestionCitas.Citas.Api.Controllers.Dtos;
-using GestionCitas.Citas.Dominio.Servicios;
-using GestionCitas.Citas.Dominio.Modelos;
-using GestionCitas.Citas.Dominio.Excepciones;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using System.Web.Http;
+using GestionCitas.Citas.Api.Models;
+using GestionCitas.Citas.Dominio.Servicios;
+using GestionCitas.Citas.Dominio.Modelos;
+using GestionCitas.Citas.Dominio.Excepciones;
+using System.Threading.Tasks;
 
 namespace GestionCitas.Citas.Api.Controllers
 {
@@ -25,11 +25,11 @@ namespace GestionCitas.Citas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("")]
-        public async Task<IHttpActionResult> GetAll()
+        [Route("ObtenerCitas")]
+        public async Task<IHttpActionResult> ObtenerCitas()
         {
-            var citas = await _citaQueriesService.GetAllAsyncCita();
-            var response = citas.Select(m => new CitaResponseDto
+            var cita = await _citaQueriesService.GetAllAsyncCita();
+            var response = cita.Select(m => new CitaResponseDto
             {
                 Id = m.Id,
                 Fecha = m.Fecha,
@@ -43,8 +43,8 @@ namespace GestionCitas.Citas.Api.Controllers
         }
 
         [HttpGet]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> GetById(Guid id)
+        [Route("ObtenerCitasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ObtenerCitasPorId(Guid id)
         {
             try
             {
@@ -68,8 +68,8 @@ namespace GestionCitas.Citas.Api.Controllers
         }
 
         [HttpPost]
-        [Route("")]
-        public async Task<IHttpActionResult> Add([FromBody] CitaDto citaDto)
+        [Route("CrearCita")]
+        public async Task<IHttpActionResult> CrearCita([FromBody] CitaDto citaDto)
         {
             if (!ModelState.IsValid)
             {
@@ -91,8 +91,8 @@ namespace GestionCitas.Citas.Api.Controllers
         }
 
         [HttpPut]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Update(Guid id, [FromBody] CitaDto citaDto)
+        [Route("ActualizarCitasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> ActualizarCitasPorId(Guid id, [FromBody] CitaDto citaDto)
         {
             if (!ModelState.IsValid)
             {
@@ -103,7 +103,7 @@ namespace GestionCitas.Citas.Api.Controllers
             {
                 var cita = new Cita
                 {
-                    Id = Guid.NewGuid(),
+                    Id = id,
                     Fecha = citaDto.Fecha,
                     Lugar = citaDto.Lugar,
                     PacienteId = citaDto.PacienteId,
@@ -120,10 +120,10 @@ namespace GestionCitas.Citas.Api.Controllers
             }
         }
 
-        // DELETE: api/medicos/{id}
+        
         [HttpDelete]
-        [Route("{id:guid}")]
-        public async Task<IHttpActionResult> Delete(Guid id)
+        [Route("EliminarCitasPorId/{id:guid}")]
+        public async Task<IHttpActionResult> EliminarCitasPorId(Guid id)
         {
             try
             {

@@ -1,73 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.infraestructura\\migrations\\202411200351431_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\migrations\\202411200351431_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.infraestructura\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.infraestructura\\repositorio\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\repositorio\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.api\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.api\\controllers\\dtos\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\controllers\\dtos\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.api\\controllers\\dtos\\recetaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F2642-DCAF-421F-9B4F-5A3F4E9CBFC4}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\controllers\\dtos\\recetaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\modelos\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\modelos\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\modelos\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\validadores\\recetavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\models\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\models\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.api\\models\\recetaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D43D7BD-E2FC-4B74-9DBE-29F9C517F0CD}|GestionCitas.Recetas.Api\\GestionCitas.Recetas.Api.csproj|solutionrelative:gestioncitas.recetas.api\\models\\recetaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.infraestructura\\repositorio\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\repositorio\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|c:\\users\\hp\\documents\\gestioncitasmicroservicios\\recetas\\gestioncitas.recetas.infraestructura\\migrations\\202411200351431_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\migrations\\202411200351431_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.infraestructura\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B09C4-F317-4F18-9F41-E3D275F56E9A}|GestionCitas.Recetas.Infraestructura\\GestionCitas.Recetas.Infraestructura.csproj|solutionrelative:gestioncitas.recetas.infraestructura\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\validadores\\recetavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\validadores\\recetavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\servicios\\impl\\recetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\servicios\\impl\\recetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\servicios\\impl\\recetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\servicios\\impl\\recetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\servicios\\impl\\recetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\servicios\\impl\\recetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\servicios\\irecetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\servicios\\irecetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\servicios\\irecetaqueriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\servicios\\irecetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\servicios\\irecetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\servicios\\irecetacommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|c:\\users\\hp\\documents\\pruebainetum\\recetas\\gestioncitas.recetas.dominio\\excepciones\\excepcionnoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\gestioncitas.recetas.dominio\\excepciones\\excepcionnoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F3802F-49A1-4F44-B850-198FAD5A0231}|GestionCitas.Recetas.Dominio\\GestionCitas.Recetas.Dominio.csproj|solutionrelative:gestioncitas.recetas.dominio\\excepciones\\excepcionnoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,11 +98,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Views\\Web.config",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Views\\Web.config",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-26T00:03:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Web.config",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Web.config",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-26T00:02:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Global.asax.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Global.asax.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Global.asax.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:48:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RecetaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:59:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecetaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Models\\RecetaResponseDto.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Models\\RecetaResponseDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Models\\RecetaResponseDto.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Models\\RecetaResponseDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:57:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Models\\RecetaDto.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Models\\RecetaDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Api\\Models\\RecetaDto.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Api\\Models\\RecetaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:53:41.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:37:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "202411200351431_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
               "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
               "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\Migrations\\202411200351431_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,26 +202,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T03:51:02.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RecetaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
               "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
               "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\Repositorio\\RecetaRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwCsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T03:41:44.467Z",
               "EditorCaption": ""
@@ -130,23 +216,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Web.config",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Web.config",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Web.config",
-              "RelativeToolTip": "GestionCitas.Recetas.Api\\Web.config",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-20T03:39:41.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\App.config",
               "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\App.config",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\App.config",
               "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -155,159 +228,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "RecetasDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
               "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
               "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\RecetasDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T03:36:25.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RecetaController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Api\\Controllers\\RecetaController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAA1wIYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:09:49.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RecetaDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaDto.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaDto.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:04:52.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRecetaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:35:31.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RecetaResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaResponseDto.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaResponseDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaResponseDto.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Api\\Controllers\\Dtos\\RecetaResponseDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:05:51.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RecetaValidador.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:51:06.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T03:36:25.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "RecetaQueriesService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Title": "IRecetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Repositorios\\IRecetaRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:41:37.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RecetaCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:18:52.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRecetaQueriesService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:55:00.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T17:35:31.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Receta.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Modelos\\Receta.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Infraestructura\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:37:39.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T03:51:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecetaValidador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Validadores\\RecetaValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:51:06.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecetaQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaQueriesService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:41:37.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IRecetaCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
-              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
-              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Title": "RecetaCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\Impl\\RecetaCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:49:28.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T18:18:52.695Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "IRecetaQueriesService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaQueriesService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:55:00.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRecetaCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
+              "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
+              "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Servicios\\IRecetaCommandService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:49:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ExcepcionNoEncontrada.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
               "RelativeDocumentMoniker": "GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\PruebaInetum\\Recetas\\GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GestionCitasMicroservicios\\Recetas\\GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
               "RelativeToolTip": "GestionCitas.Recetas.Dominio\\Excepciones\\ExcepcionNoEncontrada.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:32:06.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T16:32:06.885Z"
             }
           ]
         }

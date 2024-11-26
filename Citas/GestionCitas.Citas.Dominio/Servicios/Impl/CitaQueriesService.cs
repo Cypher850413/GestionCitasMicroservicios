@@ -9,7 +9,7 @@ using GestionCitas.Citas.Dominio.Repositorios;
 
 namespace GestionCitas.Citas.Dominio.Servicios.Impl
 {
-    internal class CitaQueriesService : ICitaQueriesService
+    public class CitaQueriesService : ICitaQueriesService
     {
         private readonly ICitaRepository _citaRepository;
 
